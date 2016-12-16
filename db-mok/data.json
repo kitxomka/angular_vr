@@ -1,0 +1,902 @@
+[
+    {
+        "title": "Amazon",
+        "description": "On this site you can find variety of headsets, gamepads, all types of accessories and games",
+        "img": "img/logo-amazon.png",
+        "href": "https://www.amazon.com?_encoding=UTF8&tag=vrsite1-20",
+        "class": "amazon",
+        "categoryId": ["Headsets", "Gamepads", "Games", "Videos"],
+        "tagId": ["Iphone", "Android", "Playstation", "Pc"]
+    },
+    {
+        "title": "Homido",
+        "description": "On this site you can find Homido products such as headsets, gamepads, appes, 3D and 360 videos",
+        "img": "img/logo-homido.png",
+        "href": "http://www.homido.com#ae232",
+        "class": "homido",
+        "categoryId": ["Headsets", "Gamepads", "Games", "Videos", "apps"],
+        "tagId": ["Iphone", "Android", "Web"]
+    },
+    {
+        "title": "VR Cover",
+        "description": "On this site you can find headsets.",
+        "img": "img/logo-cover.png",
+        "href": "https://vrcover.com/?itm=97",
+        "class": "vr-cover",
+        "categoryId": ["Headsets"],
+        "tagId": ["Android", "Pc"]
+    },
+    {
+        "title": "Ebay",
+        "description": "On this site you can find variety of headsets, gamepads, all types of accessories and games",
+        "img": "img/logo-ebay.png",
+        "href": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575199521&toolid=10001&campid=5337919765&customid=&icep_uq=vr&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg",
+        "class": "ebay",
+        "categoryId": ["Headsets", "Gamepads", "Games"],
+        "tagId": ["Iphone", "Android", "Playstation", "Pc"]
+    },
+    {
+        "title": "AliExpress",
+        "description": "On this site you can find variety of headsets, gamepads and all types of accessories",
+        "img": "img/logo-aliexpress.png",
+        "href": "http://s.click.aliexpress.com/e/ieeAYbIAi",
+        "class": "aliexpress",
+        "categoryId": ["Headsets", "Gamepads"],
+        "tagId": ["Iphone", "Android", "Pc"]
+    },
+    {
+        "title": "Freeflyvr",
+        "description": "On this site you can find headsets and gamepads.",
+        "img": "img/logo-freefly.png",
+        "href": "https://www.freeflyvr.com/?tap_a=8469-e32541&tap_s=50451-98ddb7",
+        "class": "freeflyvr",
+        "categoryId": ["Headsets", "Gamepads"],
+        "tagId": ["Android"]
+    },
+    {
+        "title": "VR Box",
+        "description": "On this site you can find headsets and gamepads.",
+        "img": "img/logo-vrbox.png",
+        "href": "http://www.box-vr.com/?wpam_id=29",
+        "class": "vrbox",
+        "categoryId": ["Headsets", "Gamepads"],
+        "tagId": ["Iphone", "Android"]
+    },
+    {
+        "title": "Rift",
+        "description": "On this site you can find Oculus headsets, gamepads, games, apps, 3D and 360 videos",
+        "img": "img/logo-rift.png",
+        "href": "https://www3.oculus.com/en-us/gear-vr/",
+        "class": "rift",
+        "categoryId": ["Headsets", "Gamepads", "Games", "Videos", "Apps", "News"],
+        "tagId": ["Android", "Pc"]
+    },
+    {
+        "title": "Wearvr",
+        "description": "On this site you can find games, apps and videos",
+        "img": "img/logo-wearvr.png",
+        "href": "https://www.wearvr.com/browse/newest?devices%5B%5D=samsung-gear-vr&gclid=Cj0KEQjw5Ie8BRCJ9fHlr_bH24cBEiQAkoDQcYDd0h0Gzfbdjc9fKhpaLvk5VHbk_D4yUOptrYcLxp8aAmYr8P8HAQ",
+        "class": "wearvr",
+        "categoryId": ["Games"],
+        "tagId": ["Android", "iOS"]
+    },
+    {
+        "title": "VR games for",
+        "description": "On this site you can find games, apps and videos",
+        "img": "img/logo-vrgamesfor.png",
+        "href": "http://vrgamesfor.com/list/",
+        "class": "vrgamesfor",
+        "categoryId": ["Games", "Apps"],
+        "tagId": ["Pc", "Android", "Playstation", "iOS", " Daydream", "Xbox"]
+    },
+    {
+        "title": "VR status",
+        "description": "On this site you can find news about VR",
+        "img": "img/logo-status.png",
+        "href": "https://www.vrstatus.com/news/",
+        "class": "vrstatus",
+        "categoryId": ["News"],
+        "tagId": ["Pc", "Android"]
+    },
+    {
+        "title": "VR NEWS",
+        "description": "On this site you can find news about VR",
+        "img": "img/logo-vrnews.png",
+        "href": "http://vrnews.com/",
+        "class": "vrnews",
+        "categoryId": ["News"],
+        "tagId": ["Pc", "Android"]
+    },
+    {
+        "title": "VR scout",
+        "description": "On this site you can find news about VR and videos",
+        "img": "img/logo-vrscout.png",
+        "href": "http://vrscout.com/",
+        "class": "vrscout",
+        "categoryId": ["3D videos", "News"],
+        "tagId": ["Pc", "Android"]
+    },
+    {
+        "title": "Unimersive",
+        "description": "On this site you can find games, apps and videos",
+        "img": "img/logo-unimersiv.png",
+        "href": "https://unimersiv.com/",
+        "class": "unimersiv",
+        "categoryId": ["Apps", "Videos"],
+        "tagId": ["Android", "Pc"]
+    },
+    {
+        "title": "VR codex",
+        "description": "On this site you can find games, apps and videos",
+        "img": "img/logo-vrcodex.png",
+        "href": "http://www.vrcodex.com/",
+        "class": "vrcodex",
+        "categoryId": ["Games","Apps", "Videos"],
+        "tagId": ["Android","iOS","Web"]
+    },
+    {
+        "title": "Store MVR",
+        "description": "On this site you can find games and videos",
+        "img": "img/logo-storemvr.png",
+        "href": "http://en.storemvr.com/",
+        "class": "storemvr",
+        "categoryId": ["Games","Videos"],
+        "tagId": ["Android","iOS","Web"]
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    },
+    {
+        "title": "",
+        "description": "",
+        "img": "",
+        "href": "",
+        "class": "",
+        "categoryId": [],
+        "tagId": []
+    }
+]

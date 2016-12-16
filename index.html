@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <title>VR</title>
+    <link href="css/main.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+    <script src="js/foundation_js/modernizr.js"></script>
+    <script src="js/foundation_js/jquery.js"></script>
+    <script src="js/foundation_js/foundation.js"></script>
+    <script src="js/foundation_js/foundation.accordion.js"></script>
+    <!-- Include the core AngularJS library -->
+    <script src="js/shared/angular.min.js"></script>
+    <script src="js/release/angular-ui-router.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.9.0/ui-bootstrap-tpls.min.js"></script>
+</head>
+<body>
+
+<div ng-include src="'header.html'"></div>
+<div class="small-12 columns main">
+    <div class="wrap">
+        <div ui-view></div>
+        <div class="small-3 columns side_bar">
+            <div class="row" style="">
+                <div class="large-12 columns search-box">
+                    <section>
+                        <div class="form-group" >
+                            <input type="text" ng-model="tagName" placeholder="Search by tags..." typeahead="tag for tag in tags | filter:$viewValue | limitTo:8" class="form-control" >
+                        </div>
+                    </section>
+                </div>
+            </div>
+                <div class="small-12 columns nav-tabs">
+                    <ul class="tabs vertical w100" style="width: 100%; max-width: 100%">
+                        <li class="tab-title text-center"><a ui-sref="category({categoryId: 'headsets'})">Headsets</a></li>
+                        <li class="tab-title text-center"><a ui-sref="category({categoryId: 'gamepads'})">Gamepads</a></li>
+                        <li class="tab-title text-center"><a ui-sref="category({categoryId: 'games'})">Games</a></li>
+                        <li class="tab-title text-center"><a ui-sref="category({categoryId: 'videos'})">Videos</a></li>
+                        <li class="tab-title text-center"><a ui-sref="category({categoryId: 'apps'})">Apps</a></li>
+                        <li class="tab-title text-center"><a ui-sref="category({categoryId: 'news'})">News</a></li>
+                    </ul>
+                </div>
+        </div>
+    </div>
+</div>
+<div ng-include src="'footer.html'"></div>
+
+<!-- Modules -->
+<script src="js/app.js"></script>
+
+<!-- Controllers -->
+<script src="js/controllers/main.ctrl.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<div class="small-9 columns content">
+    <h1>{{selectedBy}} {{title}}</h1>
+    <div class="small-3 columns one-site" ng-repeat="item in listOfSelected" style="border: 1px solid #ccc; margin-right: -1px; margin-bottom: -1px;">
+
+        <div class="small-12 columns text-center site" ng-class="{{ item.class }}" style="height: 200px">
+            <a href="{{item.href}}">
+                <img ng-src="{{ item.img }}"/>
+            </a>
+        </div>
+        <div class="small-12 columns title">{{ item.title }}</div>
+        <div class="small-12 columns description">{{ item.description }}</div>
+        <ul class="small-12 columns text-center tags-ul">
+            <li ng-repeat="tag in item.tagId">
+                <a ui-sref="tag({tagId: tag})" class="tag">{{tag}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="small-3 columns one-site"></div>
+</div>
